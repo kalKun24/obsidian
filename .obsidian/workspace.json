@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7527519c96af7f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/家具.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-01-23.md",
+                "file": "inbox/家具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-01-23.md",
+                "file": "inbox/家具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-01-23.md"
+                "file": "inbox/家具.md"
               }
             }
           },
@@ -166,13 +179,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ffa9170a326b74c0",
+  "active": "7527519c96af7f81",
   "lastOpenFiles": [
+    "DailyNotes/2024-01-23.md",
+    "inbox/家具.md",
     "inbox/silhouetteタスクファイル仕様.md",
     "inbox/Obsidianカスタマイズメモ.md",
     "inbox/idohack運用ルール(運営編).md",
     "inbox/web01-exのmysqlユーザ.md",
-    "DailyNotes/2024-01-23.md",
     "conflict-files-obsidian-git.md",
     "inbox/教科書-webセキュリティ入門【初級】.md",
     "DailyNotes/2024-01-22.md",
