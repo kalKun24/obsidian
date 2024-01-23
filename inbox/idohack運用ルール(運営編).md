@@ -22,17 +22,29 @@
 1. フラグを記述しない
 2. aタグでURLを貼る際は、`<a href="URL" target="_blank" rel="noopener noreferrer">{遷移サイト名or添付ファイル名}</a>`にする
 3. かしこまった文章よりは、くだけた文章が望ましい
+4. 機密情報を載せないこと(実在する個人情報, サイト運営に関する秘密情報, 他問題のフラグ)
 
 ### 1-1-4. ヒント
 以下のルールを守ること
 1. ヒントは3つまで
 2. ヒント内にフラグを記述しない
+3. かしこまった文章よりは、くだけた文章が望ましい
+4. 機密情報を載せないこと(実在する個人情報, サイト運営に関する秘密情報, 他問題のフラグ)
 
 ## 1-2. データベース利用
 ### 1-2-1. 問題ごとDB/userを作成し、問題用DBのみに権限を与える。
 例）課題A, 課題Bが存在するとして、
-`CREATE DATABASE challengeA`と`CREATE USER `
+課題A作成時は
+`CREATE DATABASE challengeA`(データベース作成)
+`CREATE USER 'idoPlayerA IDENTIFIED 'password'`(ユーザ作成)
+`GRANT SELECT ON challengeA.* TO idoPlayerA`(権限付与)を実行し、
+課題B作成時は
+`CREATE DATABASE challengeB`,
+`CREATE USER 'idoPlayerB IDENTIFIED 'password'`,
+`GRANT SELECT ON challengeB.* TO idoPlayerB`を実行すること。
+
 異なる問題で同じDBを利用すると、意図しない参照からフラグを入手される恐れがあるため。
+`DB-A UNION SELECT * FROM DB-B` などで意図せずフラグが流出する。
 
 
 ---
