@@ -1,0 +1,5 @@
+{
+  "autorun": true,
+  "folder": "DailyNotes",
+  "template": "Config/Templates/DailyNote"
+}
