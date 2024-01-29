@@ -34,5 +34,14 @@
       "key": "e"
     }
   ],
-  "workspace:undo-close-pane": []
+  "workspace:undo-close-pane": [],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ]
 }
