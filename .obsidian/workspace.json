@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f44eb285229fb2fc",
+        "id": "4a2596ccc7ec7275",
         "type": "tabs",
         "children": [
           {
-            "id": "7527519c96af7f81",
+            "id": "ef12bd930b3116b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Config/Templates/セキュリティ記事要約.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cbba77b1b584419",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/「セキュリティ10大脅威2024」 - 個人の脅威は順位表示を廃止.md",
+                "file": "Config/Templates/DailyNote.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/「セキュリティ10大脅威2024」 - 個人の脅威は順位表示を廃止.md",
+                "file": "Config/Templates/DailyNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/「セキュリティ10大脅威2024」 - 個人の脅威は順位表示を廃止.md",
+                "file": "Config/Templates/DailyNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/「セキュリティ10大脅威2024」 - 個人の脅威は順位表示を廃止.md"
+                "file": "Config/Templates/DailyNote.md"
               }
             }
           },
@@ -178,8 +165,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9cbba77b1b584419",
+  "active": "ef12bd930b3116b1",
   "lastOpenFiles": [
+    "DailyNotes/2024-01-29.md",
     "Config/Templates/セキュリティ記事要約.md",
     "inbox/「セキュリティ10大脅威2024」 - 個人の脅威は順位表示を廃止.md",
     "inbox/silhouetteタスクファイル仕様.md",
@@ -188,7 +176,6 @@
     "inbox/idohack運用ルール(運営編).md",
     "inbox/教科書-webセキュリティ入門【初級】.md",
     "inbox/家具.md",
-    "DailyNotes/2024-01-29.md",
     "Config/Templates/DailyNote.md",
     "DailyNotes/2024-01-28.md",
     "DailyNotes/2024-01-24.md",
