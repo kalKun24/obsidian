@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Config/Templates/DailyNote.md",
+                "file": "DailyNotes/2024-01-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Config/Templates/DailyNote.md",
+                "file": "DailyNotes/2024-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Config/Templates/DailyNote.md",
+                "file": "DailyNotes/2024-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Config/Templates/DailyNote.md"
+                "file": "DailyNotes/2024-01-29.md"
               }
             }
           },
@@ -167,8 +167,8 @@
   },
   "active": "7527519c96af7f81",
   "lastOpenFiles": [
-    "DailyNotes/2024-01-29.md",
     "Config/Templates/DailyNote.md",
+    "DailyNotes/2024-01-29.md",
     "DailyNotes/2024-01-28.md",
     "DailyNotes/2024-01-24.md",
     "DailyNotes/2024-01-23.md",
