@@ -1,3 +1,4 @@
+#セキュリティ #linux
 # AppArmor
 ## 状態を確認する
 ``` bash
@@ -122,4 +123,33 @@ manコマンドに対する例を紹介
 合計 0
 ```
 
-現在のmanコマンドに対するプロファイルの確認
+#### 現在のmanコマンドに対するプロファイルの確認
+``` bash
+┌─[✗]─[kal24hi@parrot]─[~]
+└──╼ $sudo cat /sys/kernel/security/apparmor/profiles | grep man
+man_groff (enforce)
+man_filter (enforce)
+/usr/bin/man (enforce)
+/usr/lib/connman/scripts/dhclient-script (enforce)
+```
+manコマンドへのプロファイルが有効であった
+
+#### 無効化
+```bash 
+┌─[✗]─[kal24hi@parrot]─[~]
+└──╼ $sudo aa-disable /usr/bin/man
+Disabling /usr/bin/man.
+┌─[kal24hi@parrot]─[~]
+└──╼ $sudo ls -l /etc/apparmor.d/disable/
+合計 4
+lrwxrwxrwx 1 root root 27  2月 28 18:29 usr.bin.man -> /etc/apparmor.d/usr.bin.man
+```
+
+### 有効化
+``` bash
+┌─[kal24hi@parrot]─[~]
+└──╼ $sudo aa-enforce /usr/bin/man
+Setting /usr/bin/man to enforce mode.
+```
+
+

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e32a99f866b150a4",
+        "id": "3e68f787207fa07d",
         "type": "tabs",
         "children": [
           {
-            "id": "b2c34c83e6b3fd67",
+            "id": "768eb2623dc7d146",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Linuxシステム情報の確認.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dacc0c41884c2b96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/AppArmor.md",
+                "file": "inbox/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/AppArmor.md",
+                "file": "inbox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/AppArmor.md",
+                "file": "inbox/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/AppArmor.md"
+                "file": "inbox/Untitled.md"
               }
             }
           },
@@ -171,8 +158,9 @@
       "obsidian-silhouette:Activate view": false
     }
   },
-  "active": "dacc0c41884c2b96",
+  "active": "768eb2623dc7d146",
   "lastOpenFiles": [
+    "inbox/Untitled.md",
     "inbox/Linuxシステム情報の確認.md",
     "inbox/AppArmor.md",
     "DailyNotes/2024-02-28.md",
@@ -199,7 +187,6 @@
     "inbox/侵入テストの流れ.md",
     "inbox/サイバーセキュリティレッドチーム実践ガイド.md",
     "Config/Templater/Base.md",
-    "DailyNotes/2024-01-20.md",
     "Config/Templater"
   ]
 }
