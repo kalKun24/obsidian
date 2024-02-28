@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dacc0c41884c2b96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/AppArmor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/Linuxシステム情報の確認.md",
+                "file": "inbox/AppArmor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/Linuxシステム情報の確認.md",
+                "file": "inbox/AppArmor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/Linuxシステム情報の確認.md"
+                "file": "inbox/AppArmor.md"
               }
             }
           },
@@ -158,9 +171,10 @@
       "obsidian-silhouette:Activate view": false
     }
   },
-  "active": "b2c34c83e6b3fd67",
+  "active": "dacc0c41884c2b96",
   "lastOpenFiles": [
     "inbox/Linuxシステム情報の確認.md",
+    "inbox/AppArmor.md",
     "DailyNotes/2024-02-28.md",
     "inbox/idoHack収益化案.md",
     "記事要約/「セキュリティ10大脅威2024」 - 個人の脅威は順位表示を廃止.md",
@@ -186,7 +200,6 @@
     "inbox/サイバーセキュリティレッドチーム実践ガイド.md",
     "Config/Templater/Base.md",
     "DailyNotes/2024-01-20.md",
-    "Config/Templater",
-    "README.md"
+    "Config/Templater"
   ]
 }
