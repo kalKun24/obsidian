@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Untitled.md",
+                "file": "DailyNotes/2024-03-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/Untitled.md",
+                "file": "DailyNotes/2024-03-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/Untitled.md",
+                "file": "DailyNotes/2024-03-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/Untitled.md"
+                "file": "DailyNotes/2024-03-07.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   "active": "768eb2623dc7d146",
   "lastOpenFiles": [
     "inbox/Untitled.md",
+    "DailyNotes/2024-03-07.md",
     "inbox/Linuxシステム情報の確認.md",
     "inbox/AppArmor.md",
     "DailyNotes/2024-02-28.md",
@@ -186,7 +187,6 @@
     "tasks.md",
     "inbox/侵入テストの流れ.md",
     "inbox/サイバーセキュリティレッドチーム実践ガイド.md",
-    "Config/Templater/Base.md",
     "Config/Templater"
   ]
 }
