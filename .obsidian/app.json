@@ -1,0 +1,14 @@
+{
+  "showLineNumber": true,
+  "vimMode": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00_InBox",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "90_Extra/92_Attachement",
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "90_Extra/"
+  ]
+}

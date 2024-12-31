@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "7b6b1c0755e08efd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4ba722f55219bbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c1ae47f740a4323",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54f5be7a66fbf26f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb38fb2ff499fa18",
+        "type": "tabs",
+        "dimension": 79.93981945837513,
+        "children": [
+          {
+            "id": "3d1ac22d3a41a2a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "82c6551592e3de64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cbc21b53a0618971",
+        "type": "tabs",
+        "dimension": 20.060180541624874,
+        "children": [
+          {
+            "id": "c19096cdb68a80ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "right": {
+    "id": "29b22024e403bc12",
+    "type": "split",
+    "children": [
+      {
+        "id": "a78892a3a6b5baa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f5df2b876d63252",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "9bb7ae81300cd1a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10_Task/TaskBoard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "TaskBoardからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "f269785f074c1fff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "a23e6bb54bfd278d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10_Task/TaskBoard.md"
+              },
+              "icon": "lucide-list",
+              "title": "TaskBoardのアウトライン"
+            }
+          },
+          {
+            "id": "e7d42a16093b81f8",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-kanban:カンバンボードを新規作成": false
+    }
+  },
+  "active": "2c1ae47f740a4323",
+  "lastOpenFiles": [
+    "90_Extra/91_Template/23_ReferenceNote.md",
+    "90_Extra/91_Template/22_WriteUP.md",
+    "90_Extra/91_Template/22_FleetingNote.md",
+    "90_Extra/91_Template/13_MinutesNote.md",
+    "90_Extra/91_Template/12_TaskNote.md",
+    "90_Extra/91_Template/11_ProjectNote.md",
+    "00_InBox/無題のファイル.md",
+    "10_Task/TaskBoard.md",
+    "README.md",
+    "90_Extra/93_Canvas/ノートフロー.canvas",
+    "10_Task/11_Project/SecuriTeach.md",
+    "10_Task/11_Project/OSDA攻略.md",
+    "10_Task/11_Project/Laccon攻略.md",
+    "10_Task/13_Minutes",
+    "90_Extra/91_Template/ContactNote.md",
+    "10_Task/11_Project/無題のフォルダ",
+    "30_Public/無題のフォルダ",
+    "30_Public",
+    "Tags",
+    "20_Knowledge/24_Permanent",
+    "20_Knowledge/23_Reference",
+    "20_Knowledge/22_Fleeting",
+    "20_Knowledge/21_Index",
+    "10_Task/11_Project"
+  ]
+}
